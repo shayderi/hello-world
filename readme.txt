@@ -6,3 +6,4 @@ master - change
 someFeature - change
 SM3 change
 master change while sm4 changed
+sm4 change
