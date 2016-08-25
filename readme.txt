@@ -4,3 +4,4 @@ Line added at master branch
 This line were added at 'someFeature' branch
 master - change
 someFeature - change
+SM3 change
