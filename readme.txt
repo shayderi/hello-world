@@ -5,3 +5,4 @@ This line were added at 'someFeature' branch
 master - change
 someFeature - change
 SM3 change
+sm4 change
