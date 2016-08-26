@@ -11,3 +11,4 @@ indeed
 master say indeed
 B
 A
+indeed by master
