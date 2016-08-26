@@ -11,4 +11,5 @@ indeed
 master say indeed
 B
 A
+sm4
 indeed by master
